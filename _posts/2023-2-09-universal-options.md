@@ -10,8 +10,6 @@ tags:
   - Plugins
 ---
 
-# Universal Options
-
 [Unreal Marketplace Link](https://www.unrealengine.com/marketplace/en-US/product/universal-options)  
 [Documentation](https://github.com/FunderburkM/CMEngineOptionsDocs)  
 
