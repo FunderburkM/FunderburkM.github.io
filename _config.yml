@@ -129,7 +129,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "UE Marketplace"
-      icon: "fab fa-fw fa-link"
+      icon: "fab fa fa-link"
       url: "https://www.unrealengine.com/marketplace/en-US/profile/M+Funderburk"
 
 # Site Footer

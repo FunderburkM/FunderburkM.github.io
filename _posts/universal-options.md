@@ -1,3 +1,15 @@
+---
+layout: single
+title: "Universal Options"
+excerpt: A brief overview of a settings plugin for Unreal Engine
+header:
+  teaser: /assets/images/per-post/universal-options/Icon-v2.png
+author: Meta
+category: Unreal Marketplace
+tags:
+  - Plugins
+---
+
 # Universal Options
 
 [Unreal Marketplace Link](https://www.unrealengine.com/marketplace/en-US/product/universal-options)  
