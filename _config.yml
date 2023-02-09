@@ -157,7 +157,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
     - label: "UE Marketplace"
-      icon: "fab fa-fw fa-external-link"
+      icon: "fab fa fa-external-link-square"
       url: "https://www.unrealengine.com/marketplace/en-US/profile/M+Funderburk"
 
 
