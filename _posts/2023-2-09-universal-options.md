@@ -3,7 +3,7 @@ layout: single
 title: "Universal Options"
 excerpt: A brief overview of a settings plugin for Unreal Engine
 header:
-  teaser: /assets/images/per-post/universal-options/Icon-v2.png
+  teaser: /assets/images/per-post/Universal-Options/Icon-v2.png
 author: Meta
 category: Unreal Marketplace
 tags:
