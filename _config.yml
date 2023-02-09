@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mario-funderburk-530567a0/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -133,7 +133,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mario-funderburk-530567a0/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
