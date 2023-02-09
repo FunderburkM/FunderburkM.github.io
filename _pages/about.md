@@ -11,4 +11,4 @@ Starting with Level and Blueprint Scripting, started generalizing myself into th
 
 Outside of Unreal Engine, I have also worked in front-end web development, python, and application processing with pascal. My interests include psychology and neuroscience personal studies, as well as physics, trigonometry, and calculus. On my free time, I find enjoyment in video games, film and anime, and entertaining a black ball of fur known as Lobo.  
 
-<img src = "/assets/images/per-page/about/fluffy-doggo.jpg" witdth="60%" height="40%">  
+<img src = "/assets/images/per-page/about/fluffy-doggo.jpg" height="400">  
