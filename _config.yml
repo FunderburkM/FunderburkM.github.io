@@ -303,7 +303,4 @@ defaults:
       toc_label: "Contents"
       toc_icon: "cog"
       toc_sticky: true
-
-header_pages:
-  - pages/about.md
-  - pages/marketplace.md
+      
